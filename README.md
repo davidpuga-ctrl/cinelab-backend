@@ -1,6 +1,6 @@
 README del Backend
 
-# 🎬 API Servidor - Cine Daslegacy
+# 🎬 API Servidor - Cine
 
 Este es el backend del sistema de gestión de cine, desarrollado con **Django REST Framework**. Se encarga de la gestión de la base de datos, autenticación segura con OAuth 2.0 y el almacenamiento de imágenes multimedia.
 
